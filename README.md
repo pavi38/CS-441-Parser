@@ -1,4 +1,4 @@
 # CS-441-Parser
 
-#Resources
+# Resources
 https://matt.might.net/articles/lexers-in-racket/
