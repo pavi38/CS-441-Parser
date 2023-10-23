@@ -11,3 +11,7 @@ For Parser funcations the most useful resources I found are the following<br>
 https://docs.racket-lang.org/denxi-reference/Monads.html<br>
 https://docs.racket-lang.org/functional/interfaces.html<br>
 https://docs.racket-lang.org/functional/either.html<br>
+
+# LLM Prompts
+I did not use chatgpt or any other large language model.
+
