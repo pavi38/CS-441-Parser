@@ -191,8 +191,8 @@
       ))
   )
 
-(define (parser s)
-  (cond [(string? s)(let([file-contents (open-input-file s)]) (parser (scanner file-contents)))] 
+(define (parse s)
+  (cond [(string? s)(let([file-contents (open-input-file s)]) (parse (scanner file-contents)))] 
         [else (begin (set! n 1)(program s))]
         )  
 )
