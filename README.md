@@ -16,4 +16,4 @@ https://docs.racket-lang.org/functional/either.html<br>
 I did not use chatgpt or any other large language model.
 
 # Known bug 
-When error in while loop it gives the syntax error line number where the loop starts.
+When error inside while loop it gives the syntax error line number where the loop starts.
